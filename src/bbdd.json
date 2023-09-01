@@ -1,0 +1,418 @@
+{
+    "categorias": [
+        {
+            "nombre": "Compromisos y Eventos Sociales",
+            "descripcion": "Situaciones relacionadas con la imposibilidad de asistir a eventos, actividades sociales, celebraciones, bodas, funerales y compromisos sociales en general.",
+            "situaciones": [
+                {
+                    "nombre": "No asistir a una boda",
+                    "excusas": [
+                        "Tengo un compromiso laboral ineludible en esa fecha.",
+                        "Un problema familiar requiere mi atención y no podré asistir.",
+                        "Estoy enfermo y no quiero contagiar a los demás.",
+                        "Un imprevisto de último momento me impide estar presente en la boda."
+                    ]
+                },
+                {
+                    "nombre": "No ir a un funeral",
+                    "excusas": [
+                        "Lamentablemente, estoy fuera de la ciudad y no podré llegar a tiempo.",
+                        "Tengo una situación personal delicada que me impide asistir al funeral.",
+                        "He tenido un compromiso laboral que no puedo posponer.",
+                        "Un problema de salud repentino me imposibilita asistir al funeral."
+                    ]
+                },
+                {
+                    "nombre": "No poder asistir a una conferencia o taller",
+                    "excusas": [
+                        "Un conflicto de horarios surgió y no podré asistir al evento.",
+                        "Estoy trabajando en un proyecto con una fecha límite inminente.",
+                        "He tenido una urgencia familiar y no podré participar en la conferencia.",
+                        "Lamentablemente, tuve problemas de transporte que me impiden llegar."
+                    ]
+                },
+                {
+                    "nombre": "No poder asistir a una actividad social",
+                    "excusas": [
+                        "Tengo una cita médica importante que coincide con la actividad.",
+                        "He tenido un problema personal que me impide unirme a la actividad.",
+                        "Estoy sobrecargado de trabajo y no podré asistir.",
+                        "Un imprevisto en mi hogar requiere mi atención en esa fecha."
+                    ]
+                },
+                {
+                    "nombre": "No poder unirse a una celebración",
+                    "excusas": [
+                        "Lamentablemente, surgió una emergencia que me impide unirme a la celebración.",
+                        "Estoy fuera de la ciudad por motivos familiares y no podré asistir.",
+                        "He tenido problemas de transporte y no podré llegar a tiempo.",
+                        "Tengo un compromiso preexistente en esa fecha que no puedo cancelar."
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Tareas y Responsabilidades",
+            "descripcion": "Incluye situaciones en las que no se puede cumplir con tareas, responsabilidades laborales, presentaciones importantes, plazos, y donde se necesitan excusas relacionadas con el trabajo y las responsabilidades.",
+            "situaciones": [
+                {
+                    "nombre": "No cumplir con una tarea por falta de recursos",
+                    "excusas": [
+                        "Lamentablemente, no tuve acceso a los recursos necesarios para completar la tarea.",
+                        "Hubo un problema logístico que impidió que obtuviera los recursos requeridos.",
+                        "Estoy esperando una entrega que no llegó a tiempo para completar la tarea.",
+                        "Un error en la planificación dejó a mi equipo sin los recursos necesarios."
+                    ]
+                },
+                {
+                    "nombre": "No poder hacer una presentación importante",
+                    "excusas": [
+                        "Mi equipo y yo estamos experimentando problemas técnicos con la plataforma de presentación.",
+                        "Un problema de salud repentino me ha dejado sin la capacidad de hacer la presentación.",
+                        "Hubo un malentendido en cuanto a la fecha y no estaba preparado para la presentación.",
+                        "Un compromiso ineludible me impidió preparar adecuadamente la presentación."
+                    ]
+                },
+                {
+                    "nombre": "No cumplir con una fecha límite por problemas personales",
+                    "excusas": [
+                        "He tenido un problema familiar inesperado que me impidió cumplir con la fecha límite.",
+                        "Un asunto personal urgente requirió mi atención y no pude completar la tarea a tiempo.",
+                        "Estoy pasando por una situación personal complicada que afectó mi capacidad para cumplir con la fecha límite.",
+                        "Una emergencia médica en mi familia me distrajo y no pude concentrarme en la tarea."
+                    ]
+                },
+                {
+                    "nombre": "No poder cumplir con un plazo por problemas tecnológicos",
+                    "excusas": [
+                        "Experimenté una falla de software inesperada que me impidió cumplir con el plazo.",
+                        "Mi equipo y yo enfrentamos problemas de conectividad que nos dejaron incomunicados.",
+                        "Hubo una interrupción en la red que afectó nuestra capacidad para trabajar en línea.",
+                        "Un fallo en mi equipo impidió que pudiera completar la tarea en el tiempo requerido."
+                    ]
+                },
+                {
+                    "nombre": "No poder continuar una actividad por razones de salud",
+                    "excusas": [
+                        "Lamentablemente, mi salud se deterioró y no pude continuar con la actividad.",
+                        "Tengo una enfermedad que me afecta periódicamente y me impidió continuar.",
+                        "Experimenté una lesión repentina que me dejó incapacitado para continuar.",
+                        "Mi médico me aconsejó reposo debido a una condición médica, por lo que no pude continuar."
+                    ]
+                },
+                {
+                    "nombre": "No cumplir con una tarea por falta de recursos",
+                    "excusas": [
+                        "Lamentablemente, no tuve acceso a los recursos necesarios para completar la tarea.",
+                        "Hubo un problema logístico que impidió que obtuviera los recursos requeridos.",
+                        "Estoy esperando una entrega que no llegó a tiempo para completar la tarea.",
+                        "Un error en la planificación dejó a mi equipo sin los recursos necesarios."
+                    ]
+                },
+                {
+                    "nombre": "No poder hacer una presentación importante",
+                    "excusas": [
+                        "Mi equipo y yo estamos experimentando problemas técnicos con la plataforma de presentación.",
+                        "Un problema de salud repentino me ha dejado sin la capacidad de hacer la presentación.",
+                        "Hubo un malentendido en cuanto a la fecha y no estaba preparado para la presentación.",
+                        "Un compromiso ineludible me impidió preparar adecuadamente la presentación."
+                    ]
+                },
+                {
+                    "nombre": "No cumplir con una fecha límite por problemas personales",
+                    "excusas": [
+                        "He tenido un problema familiar inesperado que me impidió cumplir con la fecha límite.",
+                        "Un asunto personal urgente requirió mi atención y no pude completar la tarea a tiempo.",
+                        "Estoy pasando por una situación personal complicada que afectó mi capacidad para cumplir con la fecha límite.",
+                        "Una emergencia médica en mi familia me distrajo y no pude concentrarme en la tarea."
+                    ]
+                },
+                {
+                    "nombre": "No poder cumplir con un plazo por problemas tecnológicos",
+                    "excusas": [
+                        "Experimenté una falla de software inesperada que me impidió cumplir con el plazo.",
+                        "Mi equipo y yo enfrentamos problemas de conectividad que nos dejaron incomunicados.",
+                        "Hubo una interrupción en la red que afectó nuestra capacidad para trabajar en línea.",
+                        "Un fallo en mi equipo impidió que pudiera completar la tarea en el tiempo requerido."
+                    ]
+                },
+                {
+                    "nombre": "No poder continuar una actividad por razones de salud",
+                    "excusas": [
+                        "Lamentablemente, mi salud se deterioró y no pude continuar con la actividad.",
+                        "Tengo una enfermedad que me afecta periódicamente y me impidió continuar.",
+                        "Experimenté una lesión repentina que me dejó incapacitado para continuar.",
+                        "Mi médico me aconsejó reposo debido a una condición médica, por lo que no pude continuar."
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Limitaciones y Habilidades Personales",
+            "descripcion": "Situaciones en las que la falta de habilidades, conocimientos o memoria juegan un papel, como no poder dar seguimiento a tareas, no cumplir con expectativas, olvidar detalles importantes, etc.",
+            "situaciones": [
+                {
+                    "nombre": "No poder dar seguimiento a una solicitud o tarea",
+                    "excusas": [
+                        "Estoy trabajando en otros proyectos prioritarios y no tengo capacidad para dar seguimiento en este momento.",
+                        "Hubo una falta de comunicación y no recibí la información necesaria para dar seguimiento.",
+                        "Mi carga de trabajo actual es demasiado alta y no puedo atender más tareas en este momento.",
+                        "Experimenté un problema técnico que me impidió dar seguimiento a la solicitud o tarea."
+                    ]
+                },
+                {
+                    "nombre": "No poder realizar una tarea por falta de habilidades",
+                    "excusas": [
+                        "Lamentablemente, carezco de las habilidades necesarias para llevar a cabo esta tarea.",
+                        "No tengo experiencia en este tipo de tareas y temo cometer errores si intento hacerlo.",
+                        "La tarea requiere habilidades técnicas específicas que no poseo en este momento.",
+                        "Estoy en proceso de aprendizaje y no me siento lo suficientemente competente para realizar esta tarea."
+                    ]
+                },
+                {
+                    "nombre": "No recordar un nombre o detalle importante",
+                    "excusas": [
+                        "He tenido un olvido momentáneo debido a la cantidad de información que manejo.",
+                        "Lamentablemente, mi memoria no es tan buena como quisiera y a veces olvido detalles.",
+                        "Estaba distraído en ese momento y no logré retener la información.",
+                        "La presión y el estrés me impidieron recordar el nombre o detalle en ese momento."
+                    ]
+                },
+                {
+                    "nombre": "No cumplir con una expectativa debido a malentendidos",
+                    "excusas": [
+                        "Lamentablemente, hubo un malentendido en cuanto a lo que se esperaba de mí.",
+                        "No quedó claro cuáles eran las expectativas y eso llevó a una falta de alineación.",
+                        "Recibí información contradictoria sobre lo que se esperaba y eso causó la confusión.",
+                        "La comunicación sobre las expectativas no fue clara y esto afectó mi desempeño."
+                    ]
+                },
+                {
+                    "nombre": "No poder seguir un consejo o sugerencia",
+                    "excusas": [
+                        "Aprecio el consejo, pero en esta situación particular no es aplicable.",
+                        "Lamentablemente, las circunstancias han cambiado y el consejo ya no es viable.",
+                        "He considerado el consejo, pero siento que otra estrategia es más adecuada.",
+                        "El consejo va en contra de mis valores o principios, por lo que no puedo seguirlo."
+                    ]
+                },
+                {
+                    "nombre": "No poder dar seguimiento a una solicitud o tarea",
+                    "excusas": [
+                        "Estoy trabajando en otros proyectos prioritarios y no tengo capacidad para dar seguimiento en este momento.",
+                        "Hubo una falta de comunicación y no recibí la información necesaria para dar seguimiento.",
+                        "Mi carga de trabajo actual es demasiado alta y no puedo atender más tareas en este momento.",
+                        "Experimenté un problema técnico que me impidió dar seguimiento a la solicitud o tarea."
+                    ]
+                },
+                {
+                    "nombre": "No poder realizar una tarea por falta de habilidades",
+                    "excusas": [
+                        "Lamentablemente, carezco de las habilidades necesarias para llevar a cabo esta tarea.",
+                        "No tengo experiencia en este tipo de tareas y temo cometer errores si intento hacerlo.",
+                        "La tarea requiere habilidades técnicas específicas que no poseo en este momento.",
+                        "Estoy en proceso de aprendizaje y no me siento lo suficientemente competente para realizar esta tarea."
+                    ]
+                },
+                {
+                    "nombre": "No recordar un nombre o detalle importante",
+                    "excusas": [
+                        "He tenido un olvido momentáneo debido a la cantidad de información que manejo.",
+                        "Lamentablemente, mi memoria no es tan buena como quisiera y a veces olvido detalles.",
+                        "Estaba distraído en ese momento y no logré retener la información.",
+                        "La presión y el estrés me impidieron recordar el nombre o detalle en ese momento."
+                    ]
+                },
+                {
+                    "nombre": "No cumplir con una expectativa debido a malentendidos",
+                    "excusas": [
+                        "Lamentablemente, hubo un malentendido en cuanto a lo que se esperaba de mí.",
+                        "No quedó claro cuáles eran las expectativas y eso llevó a una falta de alineación.",
+                        "Recibí información contradictoria sobre lo que se esperaba y eso causó la confusión.",
+                        "La comunicación sobre las expectativas no fue clara y esto afectó mi desempeño."
+                    ]
+                },
+                {
+                    "nombre": "No poder seguir un consejo o sugerencia",
+                    "excusas": [
+                        "Aprecio el consejo, pero en esta situación particular no es aplicable.",
+                        "Lamentablemente, las circunstancias han cambiado y el consejo ya no es viable.",
+                        "He considerado el consejo, pero siento que otra estrategia es más adecuada.",
+                        "El consejo va en contra de mis valores o principios, por lo que no puedo seguirlo."
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Cambios de Circunstancias y Prioridades",
+            "descripcion": "Situaciones que involucran cambios inesperados, prioridades modificadas, imposibilidad de colaborar o asumir nuevas responsabilidades debido a cambios en las circunstancias.",
+            "situaciones": [
+                {
+                    "nombre": "No poder cumplir con una tarea debido a cambios de prioridad",
+                    "excusas": [
+                        "Recibí una nueva tarea con una prioridad más alta que requiere mi atención inmediata.",
+                        "La dirección del proyecto cambió y ahora mi tarea ya no es necesaria.",
+                        "Un cambio en la estrategia de la empresa afectó la importancia de mi tarea actual.",
+                        "Lamentablemente, hubo una reorganización en el equipo y no puedo completar esta tarea."
+                    ]
+                },
+                {
+                    "nombre": "No poder realizar una tarea debido a problemas familiares",
+                    "excusas": [
+                        "Estoy enfrentando un problema familiar urgente que me está demandando tiempo y atención.",
+                        "Una situación personal en mi familia requiere mi apoyo y no puedo enfocarme en la tarea en este momento.",
+                        "Un imprevisto en mi hogar requiere mi atención y no podré completar la tarea a tiempo.",
+                        "Lamentablemente, estoy cuidando de un miembro de la familia enfermo y no tengo tiempo para la tarea."
+                    ]
+                },
+                {
+                    "nombre": "No poder seguir una colaboración o proyecto conjunto",
+                    "excusas": [
+                        "Un cambio en mis responsabilidades laborales me impide seguir colaborando en este proyecto.",
+                        "Lamentablemente, surgió un conflicto de horarios y no puedo seguir participando en la colaboración.",
+                        "Un cambio en mi equipo de trabajo afectó mi disponibilidad para seguir colaborando.",
+                        "Estoy abrumado con otras responsabilidades y no puedo seguir siendo parte del proyecto."
+                    ]
+                },
+                {
+                    "nombre": "No poder ofrecer un consejo o recomendación",
+                    "excusas": [
+                        "Aprecio que me hayan pedido consejo, pero no tengo la experiencia necesaria en esta área.",
+                        "Lamentablemente, mi conocimiento en este tema es limitado y no puedo ofrecer un consejo adecuado.",
+                        "He tenido un cambio de prioridades en mi trabajo y no puedo dedicar tiempo a investigar y ofrecer un consejo.",
+                        "Mi enfoque se ha desplazado hacia otras áreas y no estoy lo suficientemente informado para dar un buen consejo."
+                    ]
+                },
+                {
+                    "nombre": "No poder asumir una responsabilidad adicional",
+                    "excusas": [
+                        "Agradezco que me hayan considerado, pero mi carga de trabajo actual no me permite asumir más responsabilidades.",
+                        "Estoy comprometido con otros proyectos y no podré dedicar tiempo suficiente a esta responsabilidad adicional.",
+                        "He tenido cambios en mi horario que me impiden comprometerme con una responsabilidad adicional.",
+                        "Lamentablemente, tengo limitaciones de tiempo y no puedo asumir más tareas en este momento."
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Dificultades Externas y Limitaciones Técnicas",
+            "descripcion": "Contiene situaciones donde factores externos como problemas técnicos, falta de información, distracciones o límites de tiempo afectan la capacidad de cumplir con compromisos o tareas.",
+            "situaciones": [
+                {
+                    "nombre": "No poder completar una tarea por problemas técnicos",
+                    "excusas": [
+                        "Estoy enfrentando problemas técnicos que me impiden completar la tarea a tiempo.",
+                        "La plataforma que necesito para realizar la tarea está experimentando una interrupción.",
+                        "Mi equipo se ha dañado y no puedo continuar con la tarea hasta que se repare.",
+                        "Experimenté una falla en el software necesario para llevar a cabo la tarea."
+                    ]
+                },
+                {
+                    "nombre": "No poder ofrecer ayuda debido a límites de tiempo",
+                    "excusas": [
+                        "Agradezco que me hayan pedido ayuda, pero mi agenda está llena en este momento.",
+                        "Lamentablemente, tengo compromisos preexistentes que me impiden ofrecer ayuda en este momento.",
+                        "Estoy trabajando en plazos ajustados y no puedo dedicar tiempo a ofrecer la ayuda solicitada.",
+                        "Tengo una carga de trabajo inesperada que me ha dejado sin tiempo disponible para brindar ayuda."
+                    ]
+                },
+                {
+                    "nombre": "No poder proporcionar información solicitada",
+                    "excusas": [
+                        "Aprecio que me hayan pedido información, pero no tengo acceso a esa información en este momento.",
+                        "Estoy esperando que me proporcionen los datos necesarios para responder a la solicitud.",
+                        "La información solicitada está en un lugar inaccesible para mí en este momento.",
+                        "Lamentablemente, hubo un problema técnico y no puedo recuperar la información requerida."
+                    ]
+                },
+                {
+                    "nombre": "No poder prestar atención en una conversación debido a distracciones",
+                    "excusas": [
+                        "Lamento si parecía distraído; tuve una serie de asuntos urgentes en mi mente.",
+                        "Estoy trabajando en un proyecto importante y me resulta difícil desconectar completamente.",
+                        "Recibí una serie de mensajes y correos electrónicos urgentes que demandaban mi atención.",
+                        "Estoy en un entorno ruidoso y eso afectó mi capacidad para prestar atención."
+                    ]
+                },
+                {
+                    "nombre": "No poder hacer una donación solicitada",
+                    "excusas": [
+                        "Aprecio la oportunidad de contribuir, pero tengo limitaciones financieras en este momento.",
+                        "He tenido gastos inesperados que han afectado mi capacidad para hacer una donación.",
+                        "Mi situación económica actual no me permite realizar la donación que se me solicitó.",
+                        "Tengo otros compromisos financieros que deben ser atendidos antes de hacer una donación."
+                    ]
+                },
+                {
+                    "nombre": "No poder cumplir con una tarea por falta de información",
+                    "excusas": [
+                        "Lamentablemente, no he recibido la información necesaria para completar la tarea.",
+                        "La falta de detalles específicos ha dificultado mi capacidad para llevar a cabo la tarea.",
+                        "Estoy esperando una actualización importante que afecta mi capacidad para completar la tarea.",
+                        "No se me proporcionó la información requerida a tiempo para cumplir con la tarea."
+                    ]
+                },
+                {
+                    "nombre": "No poder atender una solicitud debido a sobrecarga de trabajo",
+                    "excusas": [
+                        "Agradezco que me hayan considerado, pero mi carga de trabajo actual está en su punto máximo.",
+                        "Estoy trabajando en múltiples proyectos simultáneamente y no tengo capacidad para asumir más tareas.",
+                        "Lamentablemente, estoy en medio de un proyecto con plazo inminente y no puedo atender nuevas solicitudes.",
+                        "Mi agenda está completamente llena y no puedo comprometerme con más responsabilidades en este momento."
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Situaciones Específicas",
+            "descripcion": "Agrupa situaciones que no encajan perfectamente en las otras categorías, como no poder responder mensajes o llamadas, cancelar planes, no poder asumir responsabilidades voluntarias, etc.",
+            "situaciones": [
+                {
+                    "nombre": "No poder responder un mensaje o llamada",
+                    "excusas": [
+                        "Estaba en una reunión importante y no pude responder en ese momento.",
+                        "Mi teléfono se quedó sin batería y no pude recibir ni responder a los mensajes.",
+                        "Estoy en una zona con mala señal y no pude recibir la llamada o mensaje.",
+                        "Estaba en medio de una tarea urgente y no pude atender la llamada o mensaje."
+                    ]
+                },
+                {
+                    "nombre": "No poder ayudar con algo",
+                    "excusas": [
+                        "Aprecio que me hayan pedido ayuda, pero no tengo la experiencia necesaria para este tema.",
+                        "Estoy comprometido con otros compromisos y no puedo dedicar tiempo para ayudar en este momento.",
+                        "Estoy pasando por una situación personal que afecta mi capacidad para brindar ayuda.",
+                        "Lamentablemente, no tengo los recursos necesarios para ayudar en esta situación."
+                    ]
+                },
+                {
+                    "nombre": "No poder completar una tarea a tiempo",
+                    "excusas": [
+                        "Hubo un retraso inesperado en el proceso que afectó mi capacidad para completar la tarea a tiempo.",
+                        "Experimenté problemas técnicos que me impidieron avanzar y terminar la tarea a tiempo.",
+                        "Una emergencia personal surgió y tuve que interrumpir mi trabajo en la tarea.",
+                        "Subestimé el tiempo requerido para completar la tarea y no pude finalizarla a tiempo."
+                    ]
+                },
+                {
+                    "nombre": "Cancelar un plan previamente acordado",
+                    "excusas": [
+                        "Lamento tener que cancelar, pero surgió una emergencia inesperada que requiere mi atención.",
+                        "Hubo un cambio en mi agenda de último minuto y no podré cumplir con el plan acordado.",
+                        "Experimenté problemas de salud repentinos que me impiden cumplir con el plan.",
+                        "Un compromiso laboral imprevisto surgió y tengo que cancelar nuestros planes."
+                    ]
+                },
+                {
+                    "nombre": "No poder asumir una responsabilidad voluntaria",
+                    "excusas": [
+                        "Agradezco que me hayan considerado, pero mi carga de trabajo actual está en su punto máximo.",
+                        "Estoy involucrado en otros proyectos y no tengo tiempo suficiente para asumir responsabilidades adicionales.",
+                        "Lamentablemente, estoy atravesando una etapa de cambios personales y no puedo asumir nuevas responsabilidades en este momento.",
+                        "Estoy tratando de equilibrar mi tiempo entre el trabajo y otras obligaciones, por lo que no puedo asumir responsabilidades voluntarias en este momento."
+                    ]
+                }
+            ]
+        }
+    ]
+}

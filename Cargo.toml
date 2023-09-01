@@ -1,0 +1,12 @@
+[package]
+name = "excusas_excusas_api_rest"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-web = "4.4.0"
+serde = "1.0.188"
+serde_json = "1.0.105"
+sqlx = { version = "0.7.1", features = [ "sqlite", "runtime-tokio" ] }
